@@ -1,7 +1,7 @@
 ---@type black-metal.Theme
 --- colors taken from Tol Cormpt Norz Norz Norz..., 1993
 local M = {
-	alt = "#5f8787",
+	alt = "#9b99a3",
 	alt_bg = "#1c1919",
 	bg = "#000000",
 	comment = "#505050",
@@ -13,13 +13,13 @@ local M = {
 	number = "#aaaaaa",
 	operator = "#9b99a3",
 	property = "#c1c1c1",
-	string = "#8BAE68", -- first accent
+	string = "#72944f", -- first accent
 	type = "#B29740", -- second accent
 	visual = "#333333",
 	diag_red = "#974b46",
 	diag_blue = "#5f8787",
 	diag_yellow = "#B29740",
-	diag_green = "#8BAE68",
+	diag_green = "#72944f",
 }
 
 ---@type black-metal.Theme.Terminal
