@@ -2,7 +2,7 @@
 --- colors taken from Tol Cormpt Norz Norz Norz..., 1993
 local M = {
 	alt = "#5f8787",
-	alt_bg = "#191A11",
+	alt_bg = "#191919",
 	bg = "#000000",
 	comment = "#505050",
 	constant = "#aaaaaa",
