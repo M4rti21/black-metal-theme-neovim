@@ -13,13 +13,13 @@ local M = {
 	number = "#aaaaaa",
 	operator = "#9b9ba9",
 	property = "#c1c1c1",
-	string = "#2f6732", -- first accent
+	string = "#6d946f", -- first accent
 	type = "#B29740", -- second accent
 	visual = "#333333",
 	diag_red = "#974b46",
 	diag_blue = "#9b9ba9",
 	diag_yellow = "#B29740",
-	diag_green = "#2f6732",
+	diag_green = "#6d946f",
 }
 
 ---@type black-metal.Theme.Terminal
